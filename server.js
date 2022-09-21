@@ -1,6 +1,7 @@
 const express = require('express');
 const path = require('path');
 
+const PORT = process.env.PORT || 3001;
 const app = express();
 
 app.use(express.json());
@@ -21,6 +22,6 @@ app.get('/notes', (req, res) => {
 
 
 
-app.listen(3001, () => {
+app.listen(PORT, () => {
     console.log('app now running on http://localhost:3001/');
 });
