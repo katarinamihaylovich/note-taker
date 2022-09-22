@@ -15,7 +15,7 @@ The purpose of this project was to present an application consisting of a home p
 8. uuid
 
 ## Link to Glitch deployment:
-https://scented-endurable-red.glitch.me/notes
+https://scented-endurable-red.glitch.me
 
 ## Screenshot:
 
