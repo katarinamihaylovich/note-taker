@@ -1,6 +1,27 @@
 [
     {
-        "title":"Test Title",
-        "text":"Test text"
+        "title": "Interesting",
+        "text": "deleting notes!\n",
+        "id": "59fcd362-34cb-4941-803f-965c98819281"
+    },
+    {
+        "title": "it is working!",
+        "text": "nice",
+        "id": "c709ffcd-f742-4dc8-b2cb-91333a984647"
+    },
+    {
+        "title": "Submit Homework",
+        "text": "due at midnight!",
+        "id": "33bda5ef-6000-44af-a86b-0e88cf6354ab"
+    },
+    {
+        "title": "Phone call tomorrow",
+        "text": "Very important! 2 pm",
+        "id": "026aaa14-da12-4bac-a22b-32af87d91003"
+    },
+    {
+        "title": "Pay dues",
+        "text": "for HOA",
+        "id": "bf9f72d8-e9ee-4c51-ad7c-15c15b322cbd"
     }
 ]
